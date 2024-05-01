@@ -1,5 +1,6 @@
 body{
     background: linear-gradient(270deg,rgb(182, 119, 241)18%,rgb(167, 104, 255)41%,rgb(96, 83, 242)65%,rgb(224, 87, 219)87%);
+     background-image: url(https://images.pexels.com/photos/2748716/pexels-photo-2748716.jpeg?auto=compress&cs=tinysrgb&w=1600);
     font-family:'Montserrat',sans-serif;
 }
 .container{
